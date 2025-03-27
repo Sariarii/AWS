@@ -4,7 +4,7 @@ var ddb = new AWS.DynamoDB();
 
 async function waitForTableActive(tableName) {
   console.log("Vérification du statut de la table...");
-
+  var tentatives=0
   while (true) {
     try {
       let data = await ddb.describeTable({ TableName: tableName }).promise();
@@ -15,11 +15,16 @@ async function waitForTableActive(tableName) {
         console.log("Table prête !");
         break;
       }
+      if (tentatives>5){
+        break;
+      }
     } catch (err) {
       console.error("Erreur lors de la vérification du statut :", err);
     }
 
     console.log("En attente de l'activation de la table...");
+    tentatives++
+    console.log(`tentatives : ${tentatives}`)
     await new Promise((resolve) => setTimeout(resolve, 3000));
   }
 }
