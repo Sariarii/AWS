@@ -1,0 +1,1 @@
+https://ucdlta1g3m.execute-api.eu-west-3.amazonaws.com/HelloLambda/hello
