@@ -1,0 +1,218 @@
+[
+  {
+    "id": 85,
+    "prenom": "Gianluigi",
+    "nom": "Donnarumma",
+    "age": 26,
+    "poste": "Gardien",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 86,
+    "prenom": "Matvey",
+    "nom": "Safonov",
+    "age": 25,
+    "poste": "Gardien",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 87,
+    "prenom": "Arnau",
+    "nom": "Tenas",
+    "age": 24,
+    "poste": "Gardien",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 88,
+    "prenom": "Achraf",
+    "nom": "Hakimi",
+    "age": 26,
+    "poste": "Défenseur",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 89,
+    "prenom": "Presnel",
+    "nom": "Kimpembe",
+    "age": 29,
+    "poste": "Défenseur",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 90,
+    "prenom": "Marquinhos",
+    "nom": "",
+    "age": 30,
+    "poste": "Défenseur",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 91,
+    "prenom": "Lucas",
+    "nom": "Hernandez",
+    "age": 29,
+    "poste": "Défenseur",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 92,
+    "prenom": "Nuno",
+    "nom": "Mendes",
+    "age": 23,
+    "poste": "Défenseur",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 93,
+    "prenom": "Lucas",
+    "nom": "Beraldo",
+    "age": 22,
+    "poste": "Défenseur",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 94,
+    "prenom": "Yoram",
+    "nom": "Zague",
+    "age": 21,
+    "poste": "Défenseur",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 95,
+    "prenom": "Naoufel",
+    "nom": "El Hannach",
+    "age": 20,
+    "poste": "Défenseur",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 96,
+    "prenom": "Willian",
+    "nom": "Pacho",
+    "age": 24,
+    "poste": "Défenseur",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 97,
+    "prenom": "Fabian",
+    "nom": "Ruiz",
+    "age": 29,
+    "poste": "Milieu",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 98,
+    "prenom": "Vitinha",
+    "nom": "",
+    "age": 25,
+    "poste": "Milieu",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 99,
+    "prenom": "Lee",
+    "nom": "Kang-in",
+    "age": 24,
+    "poste": "Milieu",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 100,
+    "prenom": "Senny",
+    "nom": "Mayulu",
+    "age": 22,
+    "poste": "Milieu",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 101,
+    "prenom": "Warren",
+    "nom": "Zaïre-Emery",
+    "age": 18,
+    "poste": "Milieu",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 102,
+    "prenom": "João",
+    "nom": "Neves",
+    "age": 23,
+    "poste": "Milieu",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 103,
+    "prenom": "Khvicha",
+    "nom": "Kvaratskhelia",
+    "age": 24,
+    "poste": "Attaquant",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 104,
+    "prenom": "Gonçalo",
+    "nom": "Ramos",
+    "age": 28,
+    "poste": "Attaquant",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 105,
+    "prenom": "Ousmane",
+    "nom": "Dembélé",
+    "age": 28,
+    "poste": "Attaquant",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 106,
+    "prenom": "Désiré",
+    "nom": "Doué",
+    "age": 22,
+    "poste": "Attaquant",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 107,
+    "prenom": "Bradley",
+    "nom": "Barcola",
+    "age": 22,
+    "poste": "Attaquant",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  },
+  {
+    "id": 108,
+    "prenom": "Ibrahim",
+    "nom": "Mbaye",
+    "age": 22,
+    "poste": "Attaquant",
+    "club": "Paris Saint-Germain",
+    "EquipeType": 0
+  }
+]

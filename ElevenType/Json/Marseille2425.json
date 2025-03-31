@@ -1,0 +1,254 @@
+[
+  {
+    "id": 31,
+    "prenom": "Rubén",
+    "nom": "Blanco",
+    "age": 29,
+    "poste": "Gardien",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 32,
+    "prenom": "Jeffrey",
+    "nom": "De Lange",
+    "age": 26,
+    "poste": "Gardien",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 33,
+    "prenom": "Gerónimo",
+    "nom": "Rulli",
+    "age": 32,
+    "poste": "Gardien",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 34,
+    "prenom": "Leonardo",
+    "nom": "Balerdi",
+    "age": 25,
+    "poste": "Défenseur",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 35,
+    "prenom": "Lilian",
+    "nom": "Brassier",
+    "age": 24,
+    "poste": "Défenseur",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 36,
+    "prenom": "Derek",
+    "nom": "Cornelius",
+    "age": 26,
+    "poste": "Défenseur",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 37,
+    "prenom": "Ulisses",
+    "nom": "Garcia",
+    "age": 28,
+    "poste": "Défenseur",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 38,
+    "prenom": "Pol",
+    "nom": "Lirola",
+    "age": 27,
+    "poste": "Défenseur",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 39,
+    "prenom": "Chancel",
+    "nom": "Mbemba",
+    "age": 30,
+    "poste": "Défenseur",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 40,
+    "prenom": "Quentin",
+    "nom": "Merlin",
+    "age": 22,
+    "poste": "Défenseur",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 41,
+    "prenom": "Elye",
+    "nom": "Wahi",
+    "age": 21,
+    "poste": "Défenseur",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 42,
+    "prenom": "Valentin",
+    "nom": "Rongier",
+    "age": 29,
+    "poste": "Milieu",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 43,
+    "prenom": "Pierre-Emile",
+    "nom": "Højbjerg",
+    "age": 29,
+    "poste": "Milieu",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 44,
+    "prenom": "Amine",
+    "nom": "Harit",
+    "age": 27,
+    "poste": "Milieu",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 45,
+    "prenom": "Geoffrey",
+    "nom": "Kondogbia",
+    "age": 32,
+    "poste": "Milieu",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 46,
+    "prenom": "Adrien",
+    "nom": "Rabiot",
+    "age": 29,
+    "poste": "Milieu",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 47,
+    "prenom": "Ismaël",
+    "nom": "Koné",
+    "age": 24,
+    "poste": "Milieu",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 48,
+    "prenom": "Luis",
+    "nom": "Henrique",
+    "age": 28,
+    "poste": "Attaquant",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 49,
+    "prenom": "Neal",
+    "nom": "Maupay",
+    "age": 29,
+    "poste": "Attaquant",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 50,
+    "prenom": "Amine",
+    "nom": "Gouiri",
+    "age": 25,
+    "poste": "Attaquant",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 51,
+    "prenom": "Mason",
+    "nom": "Greenwood",
+    "age": 23,
+    "poste": "Attaquant",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 52,
+    "prenom": "Quentin",
+    "nom": "Merlin",
+    "age": 22,
+    "poste": "Attaquant",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 53,
+    "prenom": "Jonathan",
+    "nom": "Rowe",
+    "age": 24,
+    "poste": "Attaquant",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 54,
+    "prenom": "Amir",
+    "nom": "Murillo",
+    "age": 27,
+    "poste": "Attaquant",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 55,
+    "prenom": "Pol",
+    "nom": "Lirola",
+    "age": 27,
+    "poste": "Attaquant",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 56,
+    "prenom": "Valentin",
+    "nom": "Rongier",
+    "age": 29,
+    "poste": "Attaquant",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 57,
+    "prenom": "Amar",
+    "nom": "Dedić",
+    "age": 23,
+    "poste": "Attaquant",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  },
+  {
+    "id": 58,
+    "prenom": "Ulisses",
+    "nom": "Garcia",
+    "age": 28,
+    "poste": "Attaquant",
+    "club": "Olympique de Marseille",
+    "EquipeType": 0
+  }
+]

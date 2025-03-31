@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "prenom": "Marc Aurele",
+    "nom": "Caillard",
+    "age": 30,
+    "poste": "Gardien",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 2,
+    "prenom": "Lucas",
+    "nom": "Chevalier",
+    "age": 25,
+    "poste": "Gardien",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 3,
+    "prenom": "Vito",
+    "nom": "Mannone",
+    "age": 36,
+    "poste": "Gardien",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 4,
+    "prenom": "Mitchel",
+    "nom": "Bakker",
+    "age": 24,
+    "poste": "Défenseur",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 5,
+    "prenom": "Ismaily",
+    "nom": "",
+    "age": 28,
+    "poste": "Défenseur",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 6,
+    "prenom": "Rafael",
+    "nom": "Fernandes",
+    "age": 22,
+    "poste": "Défenseur",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 7,
+    "prenom": "Tiago",
+    "nom": "Santos",
+    "age": 18,
+    "poste": "Défenseur",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 8,
+    "prenom": "Bafodé",
+    "nom": "Diakité",
+    "age": 21,
+    "poste": "Défenseur",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 9,
+    "prenom": "Samuel",
+    "nom": "Umtiti",
+    "age": 31,
+    "poste": "Défenseur",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 10,
+    "prenom": "Akim",
+    "nom": "Zedadka",
+    "age": 26,
+    "poste": "Défenseur",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 11,
+    "prenom": "Gabriel",
+    "nom": "Gudmundsson",
+    "age": 26,
+    "poste": "Défenseur",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 12,
+    "prenom": "Alexsandro",
+    "nom": "",
+    "age": 28,
+    "poste": "Défenseur",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 13,
+    "prenom": "Aïssa",
+    "nom": "Mandi",
+    "age": 33,
+    "poste": "Défenseur",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 14,
+    "prenom": "Thomas",
+    "nom": "Meunier",
+    "age": 33,
+    "poste": "Défenseur",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 15,
+    "prenom": "André",
+    "nom": "Gomes",
+    "age": 26,
+    "poste": "Milieu",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 16,
+    "prenom": "Ayyoub",
+    "nom": "Bouaddi",
+    "age": 22,
+    "poste": "Milieu",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 17,
+    "prenom": "Angel",
+    "nom": "Gomes",
+    "age": 21,
+    "poste": "Milieu",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 18,
+    "prenom": "Benjamin",
+    "nom": "André",
+    "age": 34,
+    "poste": "Milieu",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 19,
+    "prenom": "Edon",
+    "nom": "Zhegrova",
+    "age": 25,
+    "poste": "Milieu",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 20,
+    "prenom": "Nabil",
+    "nom": "Bentaleb",
+    "age": 27,
+    "poste": "Milieu",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 21,
+    "prenom": "Hákon",
+    "nom": "Haraldsson",
+    "age": 23,
+    "poste": "Milieu",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 22,
+    "prenom": "Rémy",
+    "nom": "Cabella",
+    "age": 35,
+    "poste": "Milieu",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 23,
+    "prenom": "Ngal'ayel",
+    "nom": "Mukau",
+    "age": 22,
+    "poste": "Milieu",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 24,
+    "prenom": "Ethan",
+    "nom": "Mbappé",
+    "age": 20,
+    "poste": "Milieu",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 25,
+    "prenom": "Chuba",
+    "nom": "Akpom",
+    "age": 29,
+    "poste": "Attaquant",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 26,
+    "prenom": "Matias",
+    "nom": "Fernandez-Pardo",
+    "age": 19,
+    "poste": "Attaquant",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 27,
+    "prenom": "Andrej",
+    "nom": "Ilic",
+    "age": 24,
+    "poste": "Attaquant",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 28,
+    "prenom": "Mohamed",
+    "nom": "Bayo",
+    "age": 27,
+    "poste": "Attaquant",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 29,
+    "prenom": "Jonathan",
+    "nom": "David",
+    "age": 25,
+    "poste": "Attaquant",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  },
+  {
+    "id": 30,
+    "prenom": "Osame",
+    "nom": "Sahraoui",
+    "age": 26,
+    "poste": "Attaquant",
+    "club": "LOSC Lille",
+    "EquipeType": 0
+  }
+]

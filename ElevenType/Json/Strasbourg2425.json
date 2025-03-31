@@ -1,0 +1,182 @@
+[
+  {
+    "id": 109,
+    "prenom": "Djordje",
+    "nom": "Petrovic",
+    "age": 25,
+    "poste": "Gardien",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 110,
+    "prenom": "Karl-Johan",
+    "nom": "Johnsson",
+    "age": 35,
+    "poste": "Gardien",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 111,
+    "prenom": "Alaa",
+    "nom": "Bellaarouch",
+    "age": 23,
+    "poste": "Gardien",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 112,
+    "prenom": "Ryan",
+    "nom": "Tutu",
+    "age": 21,
+    "poste": "Gardien",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 113,
+    "prenom": "Andrew",
+    "nom": "Omobamidele",
+    "age": 22,
+    "poste": "Défenseur",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 114,
+    "prenom": "Thomas",
+    "nom": "Delaine",
+    "age": 32,
+    "poste": "Défenseur",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 115,
+    "prenom": "Abakar",
+    "nom": "Sylla",
+    "age": 21,
+    "poste": "Défenseur",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 116,
+    "prenom": "Guela",
+    "nom": "Doué",
+    "age": 22,
+    "poste": "Défenseur",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 117,
+    "prenom": "Mamadou",
+    "nom": "Sarr",
+    "age": 20,
+    "poste": "Défenseur",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 118,
+    "prenom": "Yoni",
+    "nom": "Gomis",
+    "age": 24,
+    "poste": "Défenseur",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 119,
+    "prenom": "Ismaël",
+    "nom": "Doukouré",
+    "age": 22,
+    "poste": "Défenseur",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 120,
+    "prenom": "Jean-Eudes",
+    "nom": "Aholou",
+    "age": 31,
+    "poste": "Milieu",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 121,
+    "prenom": "Ibrahima",
+    "nom": "Sissoko",
+    "age": 27,
+    "poste": "Milieu",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 122,
+    "prenom": "Habib",
+    "nom": "Diarra",
+    "age": 21,
+    "poste": "Milieu",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 123,
+    "prenom": "Sanjin",
+    "nom": "Prcić",
+    "age": 31,
+    "poste": "Milieu",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 124,
+    "prenom": "Moïse",
+    "nom": "Sahi",
+    "age": 22,
+    "poste": "Attaquant",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 125,
+    "prenom": "Kevin",
+    "nom": "Gameiro",
+    "age": 37,
+    "poste": "Attaquant",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 126,
+    "prenom": "Lebo",
+    "nom": "Mothiba",
+    "age": 29,
+    "poste": "Attaquant",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 127,
+    "prenom": "Dilane",
+    "nom": "Bakwa",
+    "age": 22,
+    "poste": "Attaquant",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  },
+  {
+    "id": 128,
+    "prenom": "Emanuel",
+    "nom": "Emegha",
+    "age": 21,
+    "poste": "Attaquant",
+    "club": "RC Strasbourg Alsace",
+    "EquipeType": 0
+  }
+]

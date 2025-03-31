@@ -1,0 +1,236 @@
+[
+  {
+    "id": 59,
+    "prenom": "Radosław",
+    "nom": "Majecki",
+    "age": 25,
+    "poste": "Gardien",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 60,
+    "prenom": "Philipp",
+    "nom": "Köhn",
+    "age": 26,
+    "poste": "Gardien",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 61,
+    "prenom": "Yann",
+    "nom": "Lienard",
+    "age": 22,
+    "poste": "Gardien",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 62,
+    "prenom": "Vanderson",
+    "nom": "de Oliveira Campos",
+    "age": 23,
+    "poste": "Défenseur",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 63,
+    "prenom": "Jordan",
+    "nom": "Teze",
+    "age": 25,
+    "poste": "Défenseur",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 64,
+    "prenom": "Thilo",
+    "nom": "Kehrer",
+    "age": 28,
+    "poste": "Défenseur",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 65,
+    "prenom": "Caio",
+    "nom": "Henrique",
+    "age": 27,
+    "poste": "Défenseur",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 66,
+    "prenom": "Christian",
+    "nom": "Mawissa",
+    "age": 19,
+    "poste": "Défenseur",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 67,
+    "prenom": "Wilfried",
+    "nom": "Singo",
+    "age": 24,
+    "poste": "Défenseur",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 68,
+    "prenom": "Kassoum",
+    "nom": "Ouattara",
+    "age": 20,
+    "poste": "Défenseur",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 69,
+    "prenom": "Mohammed",
+    "nom": "Salisu",
+    "age": 25,
+    "poste": "Défenseur",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 70,
+    "prenom": "Denis",
+    "nom": "Zakaria",
+    "age": 28,
+    "poste": "Milieu",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 71,
+    "prenom": "Eliesse",
+    "nom": "Ben Seghir",
+    "age": 20,
+    "poste": "Milieu",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 72,
+    "prenom": "Moatasem",
+    "nom": "al-Musrati",
+    "age": 30,
+    "poste": "Milieu",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 73,
+    "prenom": "Aleksandr",
+    "nom": "Golovin",
+    "age": 28,
+    "poste": "Milieu",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 74,
+    "prenom": "Maghnes",
+    "nom": "Akliouche",
+    "age": 23,
+    "poste": "Milieu",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 75,
+    "prenom": "Lamine",
+    "nom": "Camara",
+    "age": 21,
+    "poste": "Milieu",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 76,
+    "prenom": "Takumi",
+    "nom": "Minamino",
+    "age": 30,
+    "poste": "Milieu",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 77,
+    "prenom": "Krépin",
+    "nom": "Diatta",
+    "age": 26,
+    "poste": "Milieu",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 78,
+    "prenom": "Mamadou",
+    "nom": "Coulibaly",
+    "age": 21,
+    "poste": "Milieu",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 79,
+    "prenom": "Edan",
+    "nom": "Diop",
+    "age": 20,
+    "poste": "Milieu",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 80,
+    "prenom": "Soungoutou",
+    "nom": "Magassa",
+    "age": 21,
+    "poste": "Milieu",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 81,
+    "prenom": "Folarin",
+    "nom": "Balogun",
+    "age": 23,
+    "poste": "Attaquant",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 82,
+    "prenom": "Mika",
+    "nom": "Biereth",
+    "age": 22,
+    "poste": "Attaquant",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 83,
+    "prenom": "George",
+    "nom": "Ilenikhena",
+    "age": 18,
+    "poste": "Attaquant",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  },
+  {
+    "id": 84,
+    "prenom": "Breel",
+    "nom": "Embolo",
+    "age": 28,
+    "poste": "Attaquant",
+    "club": "AS Monaco",
+    "EquipeType": 0
+  }
+]

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mettre à jour équipeType</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            width: 300px;
+            text-align: center;
+        }
+        input, select, button {
+            width: 100%;
+            padding: 10px;
+            margin: 5px 0;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+        }
+        button {
+            background: blue;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+        button:hover {
+            background: darkblue;
+        }
+        .message {
+            margin-top: 10px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Ajouter ou supprimer un joueur de l'équipeType</h2>
+
+    <label>Joueur :</label>
+    <select id="playerSelect">
+        <option value="">Sélectionner un joueur...</option>
+    </select>
+
+    <form id="updateForm">
+        <label>ID du joueur :</label>
+        <input type="number" id="id" readonly>
+
+        <label>équipeType :</label>
+        <select id="equipeType">
+            <option value="">Selectionne si tu veux qu'il soit dans l'equipe type</option>
+            <option value="0">Non</option>
+            <option value="1">Oui</option>
+        </select>
+
+        <button type="submit">Mettre à jour</button>
+    </form>
+
+    <p id="message" class="message"></p>
+</div>
+
+<script>
+    const apiUrl = "https://ucdlta1g3m.execute-api.eu-west-3.amazonaws.com/Player/PlayerEleven"; // 🔥 Remplace par ton URL d'API
+
+    // Charger la liste des joueurs dans la combo
+    async function loadPlayers() {
+        try {
+            const response = await fetch(apiUrl); // Récupérer tous les joueurs
+            const data = await response.json();
+            const players = data.Items; // Assure-toi que l'API renvoie bien `Items`
+            
+            const select = document.getElementById("playerSelect");
+            players.forEach(player => {
+                const option = document.createElement("option");
+                option.value = player.id;
+                option.textContent = `${player.nom} ${player.prenom}`;
+                select.appendChild(option);
+            });
+
+        } catch (error) {
+            console.error("Erreur lors du chargement des joueurs :", error);
+        }
+    }
+
+    // Remplir l'ID automatiquement lors de la sélection
+    document.getElementById("playerSelect").addEventListener("change", function() {
+        document.getElementById("id").value = this.value;
+    });
+
+    // Mettre à jour l'équipeType
+    document.getElementById("updateForm").addEventListener("submit", async function(event) {
+        event.preventDefault();
+
+        const id = document.getElementById("id").value;
+        const equipeType = document.getElementById("equipeType").value;
+        const message = document.getElementById("message");
+
+        if (!id || !equipeType) {
+            message.style.color = "red";
+            message.textContent = "⚠️ Veuillez sélectionner un joueur et entrer une valeur.";
+            return;
+        }
+
+        try {
+            const response = await fetch(`${apiUrl}?id=${id}`, {
+                method: "PATCH",
+                headers: { "Content-Type": "application/json" },
+                body: JSON.stringify({ equipeType: parseInt(equipeType) })
+            });
+            console.log(equipeType)
+            const data = await response.json();
+
+            if (response.ok) {
+                message.style.color = "green";
+                message.textContent = `✅ ${data.message}`;
+            } else {
+                message.style.color = "red";
+                message.textContent = `❌ Erreur : ${data.message}`;
+            }
+        } catch (error) {
+            message.style.color = "red";
+            message.textContent = `❌ Erreur lors de la mise à jour : ${error.message}`;
+        }
+    });
+
+    // Charger les joueurs au démarrage
+    loadPlayers();
+</script>
+
+</body>
+</html>
